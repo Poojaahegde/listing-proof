@@ -1,0 +1,13 @@
+Insulated bottle | Holds 0.75 liters | supported → supported
+Insulated bottle | Keeps drinks cold for 24 hours | contradicted → contradicted
+Insulated bottle | Dishwasher safe | contradicted → supported
+Insulated bottle | Includes a spare lid | missing → missing
+Desk lamp | USB-C cable is included | supported → supported
+Desk lamp | Includes a wall adapter | contradicted → contradicted
+Desk lamp | Supports wireless charging | missing → supported
+Desk lamp | Warm white at 3000 K | supported → missing
+Under-desk tray | Clamps onto desks up to 4 cm thick | supported → supported
+Under-desk tray | Supports 5 kg | contradicted → review
+Under-desk tray | Includes mounting clamps | supported → supported
+Under-desk tray | Made from recycled aluminum | missing → missing
+Development set: qwen2.5:3b 8/12; exact phrase baseline 3/12; missed contradictions 2.
