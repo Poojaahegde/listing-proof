@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Insulated bottle",
+    "source": "Trail 750 specification, revision B. Capacity: 750 mL. The body is double-wall stainless steel. Cold retention: 12 hours. Hand wash only. The Trail 500 lid is dishwasher safe.",
+    "claims": ["Holds 0.75 liters", "Keeps drinks cold for 24 hours", "Dishwasher safe", "Includes a spare lid"],
+    "labels": ["supported", "contradicted", "contradicted", "missing"],
+    "quotes": ["Capacity: 750 mL.", "Cold retention: 12 hours.", "Hand wash only.", ""]
+  },
+  {
+    "name": "Desk lamp",
+    "source": "Arc Mini setup guide. This lamp is powered by the included USB-C cable. Wall adapter sold separately. Brightness: 300 lumens. Arc Pro includes wireless charging. Color temperature: 3000 K.",
+    "claims": ["USB-C cable is included", "Includes a wall adapter", "Supports wireless charging", "Warm white at 3000 K"],
+    "labels": ["supported", "contradicted", "missing", "supported"],
+    "quotes": ["This lamp is powered by the included USB-C cable.", "Wall adapter sold separately.", "", "Color temperature: 3000 K."]
+  },
+  {
+    "name": "Under-desk tray",
+    "source": "Tidy Tray S product sheet. Maximum load: 2 kg. Installs with the included clamps. Fits desks 15–40 mm thick. Finish: matte black. Tidy Tray L fits desks up to 55 mm thick.",
+    "claims": ["Clamps onto desks up to 4 cm thick", "Supports 5 kg", "Includes mounting clamps", "Made from recycled aluminum"],
+    "labels": ["supported", "contradicted", "supported", "missing"],
+    "quotes": ["Fits desks 15–40 mm thick.", "Maximum load: 2 kg.", "Installs with the included clamps.", ""]
+  }
+]
